@@ -12,7 +12,8 @@ For Code relating to the extration of MetOffice NIMROD rainfall radar data pleas
 
 Workflow for the processing and analysis of hydrological data from East Budleigh EA gauge to evaluate the imapcts of Beaver on Flow regimes...
 
-And here's the rough result...
+And here are some of the results:
+
 ![Bud Brook Location](7_Site_Location/exports/BudBrookHydroLoc.jpg) 
 Location of Budeligh brook Catchment Colaton Brook catchemnts, gauging station and Beaver dam sequence.
 
