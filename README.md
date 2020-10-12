@@ -1,6 +1,16 @@
+### NOTES:
+This Repo is forked from: https://github.com/h-a-graham/Budleigh_Brook_Beaver_Hydro 
+
+This will remain a static fork to present the Before After Control Impact (BACI) analysis for Budleigh Brook as part of Puttock, et al. (in prep).
+
+For the Before After Analysis applied to the other sites considered in the analysis please refer to <**insert link to Alan's Repo**>
+
+For Code relating to the extration of MetOffice NIMROD rainfall radar data please refer to: https://github.com/exeter-creww/Rainfall_radar 
+
+
 # East Budleigh Hydrological Analysis
 
-Workflow for the processing and analysis of hydrological data from East Budleigh EA gaug to evaluate the imapcts of Beaver on Flow regimes...
+Workflow for the processing and analysis of hydrological data from East Budleigh EA gauge to evaluate the imapcts of Beaver on Flow regimes...
 
 And here's the rough result...
 ![Bud Brook Location](7_Site_Location/exports/BudBrookHydroLoc.jpg) 
